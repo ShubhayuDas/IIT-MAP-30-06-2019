@@ -1,0 +1,188 @@
+fileFormatVersion: 2
+guid: 6d5941b6b0c3a6b4a9f24c82e1130bf2
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: RangeRove0
+    100004: RangeRove1
+    100006: RangeRove2
+    100008: RangeRove3
+    100010: RangeRove4
+    100012: RangeRove5
+    100014: RangeRove6
+    100016: RangeRove7
+    100018: RangeRove8
+    100020: RangeRove9
+    100022: RangeRover
+    100024: Wiper_ns
+    400000: //RootNode
+    400002: RangeRove0
+    400004: RangeRove1
+    400006: RangeRove2
+    400008: RangeRove3
+    400010: RangeRove4
+    400012: RangeRove5
+    400014: RangeRove6
+    400016: RangeRove7
+    400018: RangeRove8
+    400020: RangeRove9
+    400022: RangeRover
+    400024: Wiper_ns
+    2100000: ___
+    2100002: ___1
+    2100004: range-logo
+    2100006: ___2
+    2100008: ___3
+    2100010: range-tire
+    2100012: range-black
+    2100014: range-black1
+    2100016: range-black2
+    2100018: range-black3
+    2100020: range-black4
+    2100022: range-mirror
+    2100024: range-black5
+    2100026: range-black6
+    2100028: range-black7
+    2100030: 22 - Default
+    2100032: range-black8
+    2100034: range-black9
+    2100036: range-black10
+    2100038: range-black11
+    2100040: range-black12
+    2100042: range-black13
+    2100044: range-black14
+    2100046: range-black15
+    2100048: __
+    2100050: range-black16
+    2100052: range-black17
+    2100054: range-black18
+    2100056: range-black19
+    2100058: range-black20
+    2100060: range-black21
+    2100062: __1
+    2100064: range-black22
+    2100066: range-black23
+    2100068: __2
+    2100070: range-shields
+    2100072: range-black24
+    2100074: RangeRover-PART2
+    2300000: RangeRove0
+    2300002: RangeRove1
+    2300004: RangeRove2
+    2300006: RangeRove3
+    2300008: RangeRove4
+    2300010: RangeRove5
+    2300012: RangeRove6
+    2300014: RangeRove7
+    2300016: RangeRove8
+    2300018: RangeRove9
+    2300020: RangeRover
+    2300022: Wiper_ns
+    3300000: RangeRove0
+    3300002: RangeRove1
+    3300004: RangeRove2
+    3300006: RangeRove3
+    3300008: RangeRove4
+    3300010: RangeRove5
+    3300012: RangeRove6
+    3300014: RangeRove7
+    3300016: RangeRove8
+    3300018: RangeRove9
+    3300020: RangeRover
+    3300022: Wiper_ns
+    4300000: RangeRover
+    4300002: RangeRove0
+    4300004: RangeRove1
+    4300006: RangeRove2
+    4300008: RangeRove3
+    4300010: RangeRove4
+    4300012: RangeRove5
+    4300014: Wiper_ns
+    4300016: RangeRove6
+    4300018: RangeRove7
+    4300020: RangeRove8
+    4300022: RangeRove9
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

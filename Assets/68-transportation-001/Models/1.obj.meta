@@ -1,0 +1,158 @@
+fileFormatVersion: 2
+guid: e8eab282bd8844f45a61f1940539a914
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: RangeRover_INSIDE
+    100004: RangeRover_PART1
+    100006: RangeRover_PART2
+    100008: RangeRover_PART3
+    100010: RangeRover_PART4
+    100012: RangeRover_PART5
+    100014: RangeRover_PART6
+    100016: RangeRover_W_FL
+    100018: RangeRover_W_FL01
+    100020: RangeRover_W_FL02
+    100022: RangeRover_W_FL03
+    100024: Wiper_ns
+    400000: //RootNode
+    400002: RangeRover_INSIDE
+    400004: RangeRover_PART1
+    400006: RangeRover_PART2
+    400008: RangeRover_PART3
+    400010: RangeRover_PART4
+    400012: RangeRover_PART5
+    400014: RangeRover_PART6
+    400016: RangeRover_W_FL
+    400018: RangeRover_W_FL01
+    400020: RangeRover_W_FL02
+    400022: RangeRover_W_FL03
+    400024: Wiper_ns
+    2100000: wire_228153184
+    2100002: wire_154215229
+    2100004: wire_184228153
+    2100006: wire_028028177
+    2100008: wire_087224198
+    2100010: wire_143224087
+    2100012: wire_177028149
+    2100014: wire_085028177
+    2300000: RangeRover_INSIDE
+    2300002: RangeRover_PART1
+    2300004: RangeRover_PART2
+    2300006: RangeRover_PART3
+    2300008: RangeRover_PART4
+    2300010: RangeRover_PART5
+    2300012: RangeRover_PART6
+    2300014: RangeRover_W_FL
+    2300016: RangeRover_W_FL01
+    2300018: RangeRover_W_FL02
+    2300020: RangeRover_W_FL03
+    2300022: Wiper_ns
+    3300000: RangeRover_INSIDE
+    3300002: RangeRover_PART1
+    3300004: RangeRover_PART2
+    3300006: RangeRover_PART3
+    3300008: RangeRover_PART4
+    3300010: RangeRover_PART5
+    3300012: RangeRover_PART6
+    3300014: RangeRover_W_FL
+    3300016: RangeRover_W_FL01
+    3300018: RangeRover_W_FL02
+    3300020: RangeRover_W_FL03
+    3300022: Wiper_ns
+    4300000: RangeRover_INSIDE
+    4300002: RangeRover_PART1
+    4300004: RangeRover_PART2
+    4300006: RangeRover_PART3
+    4300008: RangeRover_PART4
+    4300010: RangeRover_PART5
+    4300012: RangeRover_PART6
+    4300014: RangeRover_W_FL
+    4300016: RangeRover_W_FL01
+    4300018: RangeRover_W_FL02
+    4300020: RangeRover_W_FL03
+    4300022: Wiper_ns
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,376 @@
+fileFormatVersion: 2
+guid: 838cb7f3d191e2a4a94cf2897cad6761
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 3D_Object0
+    100002: 3D_Object1
+    100004: 3D_Object2
+    100006: 3D_Object_
+    100008: 915#1_001
+    100010: 915#1_002
+    100012: //RootNode
+    100014: bonnet_ok_
+    100016: boot_ok_00
+    100018: D#1_001
+    100020: D#1_002
+    100022: DONT_EDIT_
+    100024: door_lf_ok
+    100026: door_lr_ok
+    100028: door_rf_ok
+    100030: door_rr_ok
+    100032: fara_lf_00
+    100034: fara_lf_01
+    100036: Group_001
+    100038: Group_002
+    100040: Group_004
+    100042: M#3_001
+    100044: M#3_002
+    100046: MTK#1_001
+    100048: MTK#1_002
+    100050: Plate 08_0
+    100052: Plate 08_1
+    100054: steklo_001
+    100056: svetilo_00
+    100058: wheel_001
+    100060: wheel_002
+    100062: wheel_003
+    100064: wheel_004
+    100066: windscre01
+    100068: WITHOUT_PE
+    400000: 3D_Object0
+    400002: 3D_Object1
+    400004: 3D_Object2
+    400006: 3D_Object_
+    400008: 915#1_001
+    400010: 915#1_002
+    400012: //RootNode
+    400014: bonnet_ok_
+    400016: boot_ok_00
+    400018: D#1_001
+    400020: D#1_002
+    400022: DONT_EDIT_
+    400024: door_lf_ok
+    400026: door_lr_ok
+    400028: door_rf_ok
+    400030: door_rr_ok
+    400032: fara_lf_00
+    400034: fara_lf_01
+    400036: Group_001
+    400038: Group_002
+    400040: Group_004
+    400042: M#3_001
+    400044: M#3_002
+    400046: MTK#1_001
+    400048: MTK#1_002
+    400050: Plate 08_0
+    400052: Plate 08_1
+    400054: steklo_001
+    400056: svetilo_00
+    400058: wheel_001
+    400060: wheel_002
+    400062: wheel_003
+    400064: wheel_004
+    400066: windscre01
+    400068: WITHOUT_PE
+    2100000: dbl_wheel_001
+    2100002: dbl_3D_Object_#3
+    2100004: dbl_3D_Object1
+    2100006: dbl_3D_Object2
+    2100008: dbl_3D_Object3
+    2100010: dbl_MTK#1_001
+    2100012: dbl_Plate 08_005
+    2100014: dbl_Plate 08_001
+    2100016: dbl_Plate 08_002
+    2100018: dbl_Plate 08_003
+    2100020: dbl_Plate 08_004
+    2100022: dbl_Plate 08_006
+    2100024: dbl_door_rf_ok_0
+    2100026: dbl_WITHOUT_PE_0
+    2100028: dbl_WITHOUT_P1
+    2100030: dbl_door_rf_o1
+    2100032: dbl_WITHOUT_P2
+    2100034: dbl_door_lf_ok_0
+    2100036: dbl_door_lr_ok_0
+    2100038: dbl_WITHOUT_P3
+    2100040: dbl_boot_ok_002
+    2100042: dbl_WITHOUT_P4
+    2100044: dbl_Group_003
+    2100046: dbl_fara_lf_001
+    2100048: dbl_bonnet_ok_00
+    2100050: dbl_WITHOUT_P5
+    2100052: dbl_steklo_001
+    2100054: dbl_Group_004
+    2100056: dbl_Group_005
+    2100058: dbl_Group_006
+    2100060: dbl_Group_007
+    2100062: dbl_Group_008
+    2100064: dbl_Group_009
+    2100066: dbl_boot_ok_003
+    2100068: dbl_WITHOUT_P6
+    2100070: dbl_Group_001
+    2100072: dbl_Group_002
+    2100074: dbl_DONT_EDIT_00
+    2100076: dbl_DONT_EDIT1
+    2100078: dbl_DONT_EDIT2
+    2100080: dbl_DONT_EDIT3
+    2100082: dbl_DONT_EDIT4
+    2100084: dbl_DONT_EDIT5
+    2100086: dbl_DONT_EDIT6
+    2100088: dbl_DONT_EDIT7
+    2100090: dbl_DONT_EDIT8
+    2100092: dbl_DONT_EDIT_01
+    2100094: dbl_DONT_EDIT9
+    2100096: dbl_DONT_EDIT10
+    2100098: dbl_WITHOUT_P7
+    2100100: dbl_DONT_EDIT11
+    2100102: dbl_DONT_EDIT12
+    2100104: dbl_DONT_EDIT13
+    2100106: dbl_DONT_EDIT14
+    2100108: dbl_DONT_EDIT15
+    2100110: dbl_DONT_EDIT16
+    2100112: dbl_DONT_EDIT17
+    2100114: dbl_WITHOUT_P8
+    2100116: dbl_WITHOUT_P9
+    2100118: dbl_WITHOUT_P10
+    2100120: dbl_door_rr_ok_0
+    2100122: dbl_door_rr_o1
+    2100124: dbl_door_rr_o2
+    2100126: dbl_boot_ok_001
+    2100128: dbl_WITHOUT_P11
+    2100130: dbl_bonnet_ok1
+    2100132: dbl_bonnet_ok2
+    2100134: dbl_WITHOUT_P12
+    2100136: dbl_bonnet_ok3
+    2100138: dbl_bonnet_ok4
+    2100140: dbl_bonnet_ok5
+    2100142: dbl_svetilo_001
+    2100144: dbl_svetilo_002
+    2100146: dbl_svetilo_003
+    2100148: dbl_svetilo_004
+    2100150: dbl_svetilo_005
+    2100152: dbl_WITHOUT_P13
+    2100154: dbl_WITHOUT_P14
+    2100156: dbl_WITHOUT_P15
+    2100158: dbl_WITHOUT_P16
+    2100160: dbl_WITHOUT_P17
+    2100162: dbl_WITHOUT_P18
+    2100164: dbl_WITHOUT_P19
+    2100166: dbl_WITHOUT_P20
+    2100168: dbl_WITHOUT_P21
+    2100170: dbl_WITHOUT_P22
+    2100172: dbl_WITHOUT_P23
+    2100174: dbl_WITHOUT_P24
+    2100176: dbl_WITHOUT_P25
+    2100178: dbl_WITHOUT_P26
+    2100180: dbl_WITHOUT_P27
+    2100182: dbl_WITHOUT_P28
+    2100184: dbl_WITHOUT_P29
+    2100186: dbl_WITHOUT_P30
+    2300000: 3D_Object0
+    2300002: 3D_Object1
+    2300004: 3D_Object2
+    2300006: 3D_Object_
+    2300008: 915#1_001
+    2300010: 915#1_002
+    2300012: bonnet_ok_
+    2300014: boot_ok_00
+    2300016: D#1_001
+    2300018: D#1_002
+    2300020: DONT_EDIT_
+    2300022: door_lf_ok
+    2300024: door_lr_ok
+    2300026: door_rf_ok
+    2300028: door_rr_ok
+    2300030: fara_lf_00
+    2300032: fara_lf_01
+    2300034: Group_001
+    2300036: Group_002
+    2300038: Group_004
+    2300040: M#3_001
+    2300042: M#3_002
+    2300044: MTK#1_001
+    2300046: MTK#1_002
+    2300048: Plate 08_0
+    2300050: Plate 08_1
+    2300052: steklo_001
+    2300054: svetilo_00
+    2300056: wheel_001
+    2300058: wheel_002
+    2300060: wheel_003
+    2300062: wheel_004
+    2300064: windscre01
+    2300066: WITHOUT_PE
+    3300000: 3D_Object0
+    3300002: 3D_Object1
+    3300004: 3D_Object2
+    3300006: 3D_Object_
+    3300008: 915#1_001
+    3300010: 915#1_002
+    3300012: bonnet_ok_
+    3300014: boot_ok_00
+    3300016: D#1_001
+    3300018: D#1_002
+    3300020: DONT_EDIT_
+    3300022: door_lf_ok
+    3300024: door_lr_ok
+    3300026: door_rf_ok
+    3300028: door_rr_ok
+    3300030: fara_lf_00
+    3300032: fara_lf_01
+    3300034: Group_001
+    3300036: Group_002
+    3300038: Group_004
+    3300040: M#3_001
+    3300042: M#3_002
+    3300044: MTK#1_001
+    3300046: MTK#1_002
+    3300048: Plate 08_0
+    3300050: Plate 08_1
+    3300052: steklo_001
+    3300054: svetilo_00
+    3300056: wheel_001
+    3300058: wheel_002
+    3300060: wheel_003
+    3300062: wheel_004
+    3300064: windscre01
+    3300066: WITHOUT_PE
+    4300000: wheel_004
+    4300002: 3D_Object_
+    4300004: 915#1_002
+    4300006: M#3_002
+    4300008: MTK#1_002
+    4300010: D#1_002
+    4300012: Plate 08_0
+    4300014: door_lf_ok
+    4300016: fara_lf_00
+    4300018: steklo_001
+    4300020: Group_004
+    4300022: Group_002
+    4300024: Group_001
+    4300026: DONT_EDIT_
+    4300028: door_rf_ok
+    4300030: door_lr_ok
+    4300032: windscre01
+    4300034: door_rr_ok
+    4300036: boot_ok_00
+    4300038: bonnet_ok_
+    4300040: svetilo_00
+    4300042: WITHOUT_PE
+    6400000: 3D_Object0
+    6400002: 3D_Object1
+    6400004: 3D_Object2
+    6400006: 3D_Object_
+    6400008: 915#1_001
+    6400010: 915#1_002
+    6400012: bonnet_ok_
+    6400014: boot_ok_00
+    6400016: D#1_001
+    6400018: D#1_002
+    6400020: DONT_EDIT_
+    6400022: door_lf_ok
+    6400024: door_lr_ok
+    6400026: door_rf_ok
+    6400028: door_rr_ok
+    6400030: fara_lf_00
+    6400032: fara_lf_01
+    6400034: Group_001
+    6400036: Group_002
+    6400038: Group_004
+    6400040: M#3_001
+    6400042: M#3_002
+    6400044: MTK#1_001
+    6400046: MTK#1_002
+    6400048: Plate 08_0
+    6400050: Plate 08_1
+    6400052: steklo_001
+    6400054: svetilo_00
+    6400056: wheel_001
+    6400058: wheel_002
+    6400060: wheel_003
+    6400062: wheel_004
+    6400064: windscre01
+    6400066: WITHOUT_PE
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

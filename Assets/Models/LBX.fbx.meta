@@ -1,0 +1,542 @@
+fileFormatVersion: 2
+guid: 1a6491843b3cc8147a723d0e01b097b9
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: group10
+    100002: group6
+    100004: group9
+    100006: IIT__front_Building04:IIT__front_Building04:group10
+    100008: IIT__front_Building04:IIT__front_Building04:group11
+    100010: IIT__front_Building04:IIT__front_Building04:group12
+    100012: IIT__front_Building04:IIT__front_Building04:group13
+    100014: IIT__front_Building04:IIT__front_Building04:group7
+    100016: IIT__front_Building04:IIT__front_Building04:polySurface218
+    100018: IIT__front_Building04:IIT__front_Building04:polySurface235_IIT__front_Building05:IIT__front_Building04:IIT__front_Building04:polySurface235_IIT__front_Building05:IIT__front_Building04:IIT__front_Building04:polySurface235_IIT__front_Building05:IIT__front_Building04:IIT__front_Building04:polySurface235_IIT__front_Building05:group3_group1_polySurface69
+    100020: IIT__front_Building04:IIT__front_Building04:polySurface235_IIT__front_Building05:IIT__front_Building04:IIT__front_Building04:polySurface235_IIT__front_Building05:IIT__front_Building04:IIT__front_Building04:polySurface235_IIT__front_Building05:IIT__front_Building04:IIT__front_Building04:polySurface235_IIT__front_Building05:IIT__front_Building04:IIT__front_Building04:polySurface235_IIT__front_Building05:IIT__front_Building04:IIT__front_Building04:polySurface235_IIT__front_Building05:IIT__front_Building04:IIT__front_Building04:polySurface235_IIT__front_Building05:IIT__front_Building04:IIT__front_Building04:polySurface235_IIT__front_Building05:polySurface2
+    100022: IIT__front_Building04:IIT__front_Building04:polySurface235_IIT__front_Building05:IIT__front_Building04:IIT__front_Building04:polySurface235_IIT__front_Building05:polySurface635
+    100024: IIT__front_Building04:IIT__front_Building04:polySurface235_IIT__front_Building05:pCube36
+    100026: IIT__front_Building04:IIT__front_Building04:polySurface247
+    100028: IIT__front_Building04:IIT__front_Building04:polySurface247 1
+    100030: IIT__front_Building04:IIT__front_Building04:polySurface247 2
+    100032: IIT__front_Building04:IIT__front_Building04:polySurface248
+    100034: IIT__front_Building04:IIT__front_Building04:polySurface248 1
+    100036: IIT__front_Building04:IIT__front_Building04:polySurface248 2
+    100038: IIT__front_Building04:IIT__front_Building04:polySurface249
+    100040: IIT__front_Building04:IIT__front_Building04:polySurface249 1
+    100042: IIT__front_Building04:IIT__front_Building04:polySurface249 2
+    100044: IIT__front_Building04:IIT__front_Building04:polySurface250
+    100046: IIT__front_Building04:IIT__front_Building04:polySurface250 1
+    100048: IIT__front_Building04:IIT__front_Building04:polySurface250 2
+    100050: IIT__front_Building04:IIT__front_Building04:polySurface263
+    100052: IIT__front_Building04:IIT__front_Building04:polySurface263 1
+    100054: IIT__front_Building04:IIT__front_Building04:polySurface263 2
+    100056: IIT__front_Building04:IIT__front_Building04:polySurface264
+    100058: IIT__front_Building04:IIT__front_Building04:polySurface264 1
+    100060: IIT__front_Building04:IIT__front_Building04:polySurface264 2
+    100062: IIT__front_Building04:IIT__front_Building04:polySurface265
+    100064: IIT__front_Building04:IIT__front_Building04:polySurface265 1
+    100066: IIT__front_Building04:IIT__front_Building04:polySurface265 2
+    100068: IIT__front_Building04:IIT__front_Building04:polySurface266
+    100070: IIT__front_Building04:IIT__front_Building04:polySurface266 1
+    100072: IIT__front_Building04:IIT__front_Building04:polySurface266 2
+    100074: IIT__front_Building04:IIT__front_Building04:polySurface346
+    100076: IIT__front_Building04:IIT__front_Building04:polySurface346 1
+    100078: IIT__front_Building04:IIT__front_Building04:polySurface346 2
+    100080: IIT__front_Building04:IIT__front_Building04:polySurface347
+    100082: IIT__front_Building04:IIT__front_Building04:polySurface347 1
+    100084: IIT__front_Building04:IIT__front_Building04:polySurface347 2
+    100086: IIT__front_Building04:IIT__front_Building04:polySurface348
+    100088: IIT__front_Building04:IIT__front_Building04:polySurface348 1
+    100090: IIT__front_Building04:IIT__front_Building04:polySurface348 2
+    100092: IIT__front_Building04:IIT__front_Building04:polySurface349
+    100094: IIT__front_Building04:IIT__front_Building04:polySurface349 1
+    100096: IIT__front_Building04:IIT__front_Building04:polySurface349 2
+    100098: IIT__front_Building04:polySurface593
+    100100: //RootNode
+    100102: pCube1
+    100104: pCube2
+    100106: pCube3
+    100108: pCube36
+    100110: pCube36 1
+    100112: pCube38
+    100114: pCube39
+    100116: pCube44
+    100118: polySurface169
+    100120: polySurface171
+    100122: polySurface647
+    100124: polySurface935
+    100126: polySurface936
+    100128: polySurface937
+    100130: polySurface938
+    100132: polySurface939
+    100134: polySurface940
+    100136: polySurface941
+    100138: polySurface942
+    100140: polySurface943
+    100142: polySurface944
+    100144: polySurface945
+    100146: polySurface946
+    100148: polySurface947
+    100150: polySurface948
+    100152: polySurface949
+    100154: polySurface950
+    100156: polySurface951
+    100158: polySurface952
+    100160: polySurface953
+    100162: polySurface954
+    100164: polySurface955
+    100166: polySurface956
+    100168: polySurface957
+    100170: polySurface958
+    100172: polySurface959
+    100174: polySurface960
+    100176: polySurface961
+    100178: polySurface962
+    100180: polySurface963
+    100182: polySurface964
+    100184: polySurface995
+    100186: polySurface996
+    100188: polySurface997
+    100190: polySurface998
+    100192: polySurface999
+    400000: group10
+    400002: group6
+    400004: group9
+    400006: IIT__front_Building04:IIT__front_Building04:group10
+    400008: IIT__front_Building04:IIT__front_Building04:group11
+    400010: IIT__front_Building04:IIT__front_Building04:group12
+    400012: IIT__front_Building04:IIT__front_Building04:group13
+    400014: IIT__front_Building04:IIT__front_Building04:group7
+    400016: IIT__front_Building04:IIT__front_Building04:polySurface218
+    400018: IIT__front_Building04:IIT__front_Building04:polySurface235_IIT__front_Building05:IIT__front_Building04:IIT__front_Building04:polySurface235_IIT__front_Building05:IIT__front_Building04:IIT__front_Building04:polySurface235_IIT__front_Building05:IIT__front_Building04:IIT__front_Building04:polySurface235_IIT__front_Building05:group3_group1_polySurface69
+    400020: IIT__front_Building04:IIT__front_Building04:polySurface235_IIT__front_Building05:IIT__front_Building04:IIT__front_Building04:polySurface235_IIT__front_Building05:IIT__front_Building04:IIT__front_Building04:polySurface235_IIT__front_Building05:IIT__front_Building04:IIT__front_Building04:polySurface235_IIT__front_Building05:IIT__front_Building04:IIT__front_Building04:polySurface235_IIT__front_Building05:IIT__front_Building04:IIT__front_Building04:polySurface235_IIT__front_Building05:IIT__front_Building04:IIT__front_Building04:polySurface235_IIT__front_Building05:IIT__front_Building04:IIT__front_Building04:polySurface235_IIT__front_Building05:polySurface2
+    400022: IIT__front_Building04:IIT__front_Building04:polySurface235_IIT__front_Building05:IIT__front_Building04:IIT__front_Building04:polySurface235_IIT__front_Building05:polySurface635
+    400024: IIT__front_Building04:IIT__front_Building04:polySurface235_IIT__front_Building05:pCube36
+    400026: IIT__front_Building04:IIT__front_Building04:polySurface247
+    400028: IIT__front_Building04:IIT__front_Building04:polySurface247 1
+    400030: IIT__front_Building04:IIT__front_Building04:polySurface247 2
+    400032: IIT__front_Building04:IIT__front_Building04:polySurface248
+    400034: IIT__front_Building04:IIT__front_Building04:polySurface248 1
+    400036: IIT__front_Building04:IIT__front_Building04:polySurface248 2
+    400038: IIT__front_Building04:IIT__front_Building04:polySurface249
+    400040: IIT__front_Building04:IIT__front_Building04:polySurface249 1
+    400042: IIT__front_Building04:IIT__front_Building04:polySurface249 2
+    400044: IIT__front_Building04:IIT__front_Building04:polySurface250
+    400046: IIT__front_Building04:IIT__front_Building04:polySurface250 1
+    400048: IIT__front_Building04:IIT__front_Building04:polySurface250 2
+    400050: IIT__front_Building04:IIT__front_Building04:polySurface263
+    400052: IIT__front_Building04:IIT__front_Building04:polySurface263 1
+    400054: IIT__front_Building04:IIT__front_Building04:polySurface263 2
+    400056: IIT__front_Building04:IIT__front_Building04:polySurface264
+    400058: IIT__front_Building04:IIT__front_Building04:polySurface264 1
+    400060: IIT__front_Building04:IIT__front_Building04:polySurface264 2
+    400062: IIT__front_Building04:IIT__front_Building04:polySurface265
+    400064: IIT__front_Building04:IIT__front_Building04:polySurface265 1
+    400066: IIT__front_Building04:IIT__front_Building04:polySurface265 2
+    400068: IIT__front_Building04:IIT__front_Building04:polySurface266
+    400070: IIT__front_Building04:IIT__front_Building04:polySurface266 1
+    400072: IIT__front_Building04:IIT__front_Building04:polySurface266 2
+    400074: IIT__front_Building04:IIT__front_Building04:polySurface346
+    400076: IIT__front_Building04:IIT__front_Building04:polySurface346 1
+    400078: IIT__front_Building04:IIT__front_Building04:polySurface346 2
+    400080: IIT__front_Building04:IIT__front_Building04:polySurface347
+    400082: IIT__front_Building04:IIT__front_Building04:polySurface347 1
+    400084: IIT__front_Building04:IIT__front_Building04:polySurface347 2
+    400086: IIT__front_Building04:IIT__front_Building04:polySurface348
+    400088: IIT__front_Building04:IIT__front_Building04:polySurface348 1
+    400090: IIT__front_Building04:IIT__front_Building04:polySurface348 2
+    400092: IIT__front_Building04:IIT__front_Building04:polySurface349
+    400094: IIT__front_Building04:IIT__front_Building04:polySurface349 1
+    400096: IIT__front_Building04:IIT__front_Building04:polySurface349 2
+    400098: IIT__front_Building04:polySurface593
+    400100: //RootNode
+    400102: pCube1
+    400104: pCube2
+    400106: pCube3
+    400108: pCube36
+    400110: pCube36 1
+    400112: pCube38
+    400114: pCube39
+    400116: pCube44
+    400118: polySurface169
+    400120: polySurface171
+    400122: polySurface647
+    400124: polySurface935
+    400126: polySurface936
+    400128: polySurface937
+    400130: polySurface938
+    400132: polySurface939
+    400134: polySurface940
+    400136: polySurface941
+    400138: polySurface942
+    400140: polySurface943
+    400142: polySurface944
+    400144: polySurface945
+    400146: polySurface946
+    400148: polySurface947
+    400150: polySurface948
+    400152: polySurface949
+    400154: polySurface950
+    400156: polySurface951
+    400158: polySurface952
+    400160: polySurface953
+    400162: polySurface954
+    400164: polySurface955
+    400166: polySurface956
+    400168: polySurface957
+    400170: polySurface958
+    400172: polySurface959
+    400174: polySurface960
+    400176: polySurface961
+    400178: polySurface962
+    400180: polySurface963
+    400182: polySurface964
+    400184: polySurface995
+    400186: polySurface996
+    400188: polySurface997
+    400190: polySurface998
+    400192: polySurface999
+    2100000: blinn2
+    2100002: IIT__front_Building04_blinn1
+    2100004: lambert1
+    2100006: IIT__front_Building04_blinn4
+    2100008: IIT__front_Building04_IIT__front_Building04_polySurface235_IIT__front_Building05_IIT__front_Building04_IIT__front_Building04_polySurface235_IIT__front_Building05_blinn2
+    2100010: blinn1
+    2100012: IIT__front_Building04_IIT__front_Building04_polySurface235_IIT__front_Building05_IIT__front_Building04_IIT__front_Building04_polySurface235_IIT__front_Building05_blinn1
+    2100014: IIT__front_Building04_IIT__front_Building04_blinn2
+    2100016: IIT__front_Building04_IIT__front_Building04_blinn1
+    2100018: IIT__front_Building04_IIT__front_Building04_polySurface235_IIT__front_Building05_IIT__front_Building04_IIT__front_Building04_polySurface235_IIT__front_Building05_IIT__front_Building04_IIT__front_Building04_polySurface235_IIT__front_Building05_IIT__front_Building04_IIT__front_Building04_polySurface235_IIT__front_Building05_IIT__front_Building04_IIT__front_Building04_polySurface235_IIT__front_Building05_IIT__front_Building04_IIT__front_Building04_polySurface235_IIT__front_Building05_IIT__front_Building04_IIT__front_Building04_polySurface235_IIT__front_Building05_IIT__front_Building04_IIT__front_Building04_polySurface235_IIT__front_Building05_blinn1
+    2100020: IIT__front_Building04_IIT__front_Building04_polySurface235_IIT__front_Building05_IIT__front_Building04_IIT__front_Building04_polySurface235_IIT__front_Building05_blinn3
+    2300000: group6
+    2300002: IIT__front_Building04:IIT__front_Building04:polySurface218
+    2300004: IIT__front_Building04:IIT__front_Building04:polySurface235_IIT__front_Building05:IIT__front_Building04:IIT__front_Building04:polySurface235_IIT__front_Building05:IIT__front_Building04:IIT__front_Building04:polySurface235_IIT__front_Building05:IIT__front_Building04:IIT__front_Building04:polySurface235_IIT__front_Building05:group3_group1_polySurface69
+    2300006: IIT__front_Building04:IIT__front_Building04:polySurface235_IIT__front_Building05:IIT__front_Building04:IIT__front_Building04:polySurface235_IIT__front_Building05:IIT__front_Building04:IIT__front_Building04:polySurface235_IIT__front_Building05:IIT__front_Building04:IIT__front_Building04:polySurface235_IIT__front_Building05:IIT__front_Building04:IIT__front_Building04:polySurface235_IIT__front_Building05:IIT__front_Building04:IIT__front_Building04:polySurface235_IIT__front_Building05:IIT__front_Building04:IIT__front_Building04:polySurface235_IIT__front_Building05:IIT__front_Building04:IIT__front_Building04:polySurface235_IIT__front_Building05:polySurface2
+    2300008: IIT__front_Building04:IIT__front_Building04:polySurface235_IIT__front_Building05:IIT__front_Building04:IIT__front_Building04:polySurface235_IIT__front_Building05:polySurface635
+    2300010: IIT__front_Building04:IIT__front_Building04:polySurface235_IIT__front_Building05:pCube36
+    2300012: IIT__front_Building04:IIT__front_Building04:polySurface247
+    2300014: IIT__front_Building04:IIT__front_Building04:polySurface247 1
+    2300016: IIT__front_Building04:IIT__front_Building04:polySurface247 2
+    2300018: IIT__front_Building04:IIT__front_Building04:polySurface248
+    2300020: IIT__front_Building04:IIT__front_Building04:polySurface248 1
+    2300022: IIT__front_Building04:IIT__front_Building04:polySurface248 2
+    2300024: IIT__front_Building04:IIT__front_Building04:polySurface249
+    2300026: IIT__front_Building04:IIT__front_Building04:polySurface249 1
+    2300028: IIT__front_Building04:IIT__front_Building04:polySurface249 2
+    2300030: IIT__front_Building04:IIT__front_Building04:polySurface250
+    2300032: IIT__front_Building04:IIT__front_Building04:polySurface250 1
+    2300034: IIT__front_Building04:IIT__front_Building04:polySurface250 2
+    2300036: IIT__front_Building04:IIT__front_Building04:polySurface263
+    2300038: IIT__front_Building04:IIT__front_Building04:polySurface263 1
+    2300040: IIT__front_Building04:IIT__front_Building04:polySurface263 2
+    2300042: IIT__front_Building04:IIT__front_Building04:polySurface264
+    2300044: IIT__front_Building04:IIT__front_Building04:polySurface264 1
+    2300046: IIT__front_Building04:IIT__front_Building04:polySurface264 2
+    2300048: IIT__front_Building04:IIT__front_Building04:polySurface265
+    2300050: IIT__front_Building04:IIT__front_Building04:polySurface265 1
+    2300052: IIT__front_Building04:IIT__front_Building04:polySurface265 2
+    2300054: IIT__front_Building04:IIT__front_Building04:polySurface266
+    2300056: IIT__front_Building04:IIT__front_Building04:polySurface266 1
+    2300058: IIT__front_Building04:IIT__front_Building04:polySurface266 2
+    2300060: IIT__front_Building04:IIT__front_Building04:polySurface346
+    2300062: IIT__front_Building04:IIT__front_Building04:polySurface346 1
+    2300064: IIT__front_Building04:IIT__front_Building04:polySurface346 2
+    2300066: IIT__front_Building04:IIT__front_Building04:polySurface347
+    2300068: IIT__front_Building04:IIT__front_Building04:polySurface347 1
+    2300070: IIT__front_Building04:IIT__front_Building04:polySurface347 2
+    2300072: IIT__front_Building04:IIT__front_Building04:polySurface348
+    2300074: IIT__front_Building04:IIT__front_Building04:polySurface348 1
+    2300076: IIT__front_Building04:IIT__front_Building04:polySurface348 2
+    2300078: IIT__front_Building04:IIT__front_Building04:polySurface349
+    2300080: IIT__front_Building04:IIT__front_Building04:polySurface349 1
+    2300082: IIT__front_Building04:IIT__front_Building04:polySurface349 2
+    2300084: IIT__front_Building04:polySurface593
+    2300086: pCube1
+    2300088: pCube2
+    2300090: pCube3
+    2300092: pCube36
+    2300094: pCube36 1
+    2300096: pCube38
+    2300098: pCube39
+    2300100: pCube44
+    2300102: polySurface936
+    2300104: polySurface937
+    2300106: polySurface938
+    2300108: polySurface939
+    2300110: polySurface940
+    2300112: polySurface941
+    2300114: polySurface942
+    2300116: polySurface943
+    2300118: polySurface944
+    2300120: polySurface945
+    2300122: polySurface946
+    2300124: polySurface947
+    2300126: polySurface948
+    2300128: polySurface949
+    2300130: polySurface950
+    2300132: polySurface951
+    2300134: polySurface952
+    2300136: polySurface953
+    2300138: polySurface954
+    2300140: polySurface955
+    2300142: polySurface956
+    2300144: polySurface957
+    2300146: polySurface958
+    2300148: polySurface959
+    2300150: polySurface961
+    2300152: polySurface963
+    2300154: polySurface964
+    2300156: polySurface995
+    2300158: polySurface996
+    2300160: polySurface997
+    2300162: polySurface998
+    2300164: polySurface999
+    3300000: group6
+    3300002: IIT__front_Building04:IIT__front_Building04:polySurface218
+    3300004: IIT__front_Building04:IIT__front_Building04:polySurface235_IIT__front_Building05:IIT__front_Building04:IIT__front_Building04:polySurface235_IIT__front_Building05:IIT__front_Building04:IIT__front_Building04:polySurface235_IIT__front_Building05:IIT__front_Building04:IIT__front_Building04:polySurface235_IIT__front_Building05:group3_group1_polySurface69
+    3300006: IIT__front_Building04:IIT__front_Building04:polySurface235_IIT__front_Building05:IIT__front_Building04:IIT__front_Building04:polySurface235_IIT__front_Building05:IIT__front_Building04:IIT__front_Building04:polySurface235_IIT__front_Building05:IIT__front_Building04:IIT__front_Building04:polySurface235_IIT__front_Building05:IIT__front_Building04:IIT__front_Building04:polySurface235_IIT__front_Building05:IIT__front_Building04:IIT__front_Building04:polySurface235_IIT__front_Building05:IIT__front_Building04:IIT__front_Building04:polySurface235_IIT__front_Building05:IIT__front_Building04:IIT__front_Building04:polySurface235_IIT__front_Building05:polySurface2
+    3300008: IIT__front_Building04:IIT__front_Building04:polySurface235_IIT__front_Building05:IIT__front_Building04:IIT__front_Building04:polySurface235_IIT__front_Building05:polySurface635
+    3300010: IIT__front_Building04:IIT__front_Building04:polySurface235_IIT__front_Building05:pCube36
+    3300012: IIT__front_Building04:IIT__front_Building04:polySurface247
+    3300014: IIT__front_Building04:IIT__front_Building04:polySurface247 1
+    3300016: IIT__front_Building04:IIT__front_Building04:polySurface247 2
+    3300018: IIT__front_Building04:IIT__front_Building04:polySurface248
+    3300020: IIT__front_Building04:IIT__front_Building04:polySurface248 1
+    3300022: IIT__front_Building04:IIT__front_Building04:polySurface248 2
+    3300024: IIT__front_Building04:IIT__front_Building04:polySurface249
+    3300026: IIT__front_Building04:IIT__front_Building04:polySurface249 1
+    3300028: IIT__front_Building04:IIT__front_Building04:polySurface249 2
+    3300030: IIT__front_Building04:IIT__front_Building04:polySurface250
+    3300032: IIT__front_Building04:IIT__front_Building04:polySurface250 1
+    3300034: IIT__front_Building04:IIT__front_Building04:polySurface250 2
+    3300036: IIT__front_Building04:IIT__front_Building04:polySurface263
+    3300038: IIT__front_Building04:IIT__front_Building04:polySurface263 1
+    3300040: IIT__front_Building04:IIT__front_Building04:polySurface263 2
+    3300042: IIT__front_Building04:IIT__front_Building04:polySurface264
+    3300044: IIT__front_Building04:IIT__front_Building04:polySurface264 1
+    3300046: IIT__front_Building04:IIT__front_Building04:polySurface264 2
+    3300048: IIT__front_Building04:IIT__front_Building04:polySurface265
+    3300050: IIT__front_Building04:IIT__front_Building04:polySurface265 1
+    3300052: IIT__front_Building04:IIT__front_Building04:polySurface265 2
+    3300054: IIT__front_Building04:IIT__front_Building04:polySurface266
+    3300056: IIT__front_Building04:IIT__front_Building04:polySurface266 1
+    3300058: IIT__front_Building04:IIT__front_Building04:polySurface266 2
+    3300060: IIT__front_Building04:IIT__front_Building04:polySurface346
+    3300062: IIT__front_Building04:IIT__front_Building04:polySurface346 1
+    3300064: IIT__front_Building04:IIT__front_Building04:polySurface346 2
+    3300066: IIT__front_Building04:IIT__front_Building04:polySurface347
+    3300068: IIT__front_Building04:IIT__front_Building04:polySurface347 1
+    3300070: IIT__front_Building04:IIT__front_Building04:polySurface347 2
+    3300072: IIT__front_Building04:IIT__front_Building04:polySurface348
+    3300074: IIT__front_Building04:IIT__front_Building04:polySurface348 1
+    3300076: IIT__front_Building04:IIT__front_Building04:polySurface348 2
+    3300078: IIT__front_Building04:IIT__front_Building04:polySurface349
+    3300080: IIT__front_Building04:IIT__front_Building04:polySurface349 1
+    3300082: IIT__front_Building04:IIT__front_Building04:polySurface349 2
+    3300084: IIT__front_Building04:polySurface593
+    3300086: pCube1
+    3300088: pCube2
+    3300090: pCube3
+    3300092: pCube36
+    3300094: pCube36 1
+    3300096: pCube38
+    3300098: pCube39
+    3300100: pCube44
+    3300102: polySurface936
+    3300104: polySurface937
+    3300106: polySurface938
+    3300108: polySurface939
+    3300110: polySurface940
+    3300112: polySurface941
+    3300114: polySurface942
+    3300116: polySurface943
+    3300118: polySurface944
+    3300120: polySurface945
+    3300122: polySurface946
+    3300124: polySurface947
+    3300126: polySurface948
+    3300128: polySurface949
+    3300130: polySurface950
+    3300132: polySurface951
+    3300134: polySurface952
+    3300136: polySurface953
+    3300138: polySurface954
+    3300140: polySurface955
+    3300142: polySurface956
+    3300144: polySurface957
+    3300146: polySurface958
+    3300148: polySurface959
+    3300150: polySurface961
+    3300152: polySurface963
+    3300154: polySurface964
+    3300156: polySurface995
+    3300158: polySurface996
+    3300160: polySurface997
+    3300162: polySurface998
+    3300164: polySurface999
+    4300000: IIT__front_Building04:IIT__front_Building04:polySurface235_IIT__front_Building05:IIT__front_Building04:IIT__front_Building04:polySurface235_IIT__front_Building05:polySurface635
+    4300002: IIT__front_Building04:IIT__front_Building04:polySurface218
+    4300004: IIT__front_Building04:IIT__front_Building04:polySurface235_IIT__front_Building05:pCube36
+    4300006: IIT__front_Building04:polySurface593
+    4300008: group6
+    4300010: pCube1
+    4300012: pCube2
+    4300014: pCube3
+    4300016: IIT__front_Building04:IIT__front_Building04:polySurface235_IIT__front_Building05:IIT__front_Building04:IIT__front_Building04:polySurface235_IIT__front_Building05:IIT__front_Building04:IIT__front_Building04:polySurface235_IIT__front_Building05:IIT__front_Building04:IIT__front_Building04:polySurface235_IIT__front_Building05:group3_group1_polySurface69
+    4300018: polySurface995
+    4300020: polySurface996
+    4300022: polySurface997
+    4300024: polySurface998
+    4300026: polySurface999
+    4300028: IIT__front_Building04:IIT__front_Building04:polySurface235_IIT__front_Building05:IIT__front_Building04:IIT__front_Building04:polySurface235_IIT__front_Building05:IIT__front_Building04:IIT__front_Building04:polySurface235_IIT__front_Building05:IIT__front_Building04:IIT__front_Building04:polySurface235_IIT__front_Building05:IIT__front_Building04:IIT__front_Building04:polySurface235_IIT__front_Building05:IIT__front_Building04:IIT__front_Building04:polySurface235_IIT__front_Building05:IIT__front_Building04:IIT__front_Building04:polySurface235_IIT__front_Building05:IIT__front_Building04:IIT__front_Building04:polySurface235_IIT__front_Building05:polySurface2
+    4300030: IIT__front_Building04:IIT__front_Building04:polySurface263
+    4300032: IIT__front_Building04:IIT__front_Building04:polySurface264
+    4300034: IIT__front_Building04:IIT__front_Building04:polySurface265
+    4300036: IIT__front_Building04:IIT__front_Building04:polySurface266
+    4300038: IIT__front_Building04:IIT__front_Building04:polySurface250
+    4300040: IIT__front_Building04:IIT__front_Building04:polySurface249
+    4300042: IIT__front_Building04:IIT__front_Building04:polySurface248
+    4300044: IIT__front_Building04:IIT__front_Building04:polySurface247
+    4300046: IIT__front_Building04:IIT__front_Building04:polySurface346
+    4300048: IIT__front_Building04:IIT__front_Building04:polySurface347
+    4300050: IIT__front_Building04:IIT__front_Building04:polySurface348
+    4300052: IIT__front_Building04:IIT__front_Building04:polySurface349
+    4300054: IIT__front_Building04:IIT__front_Building04:polySurface263
+    4300056: IIT__front_Building04:IIT__front_Building04:polySurface264
+    4300058: IIT__front_Building04:IIT__front_Building04:polySurface265
+    4300060: IIT__front_Building04:IIT__front_Building04:polySurface266
+    4300062: IIT__front_Building04:IIT__front_Building04:polySurface250
+    4300064: IIT__front_Building04:IIT__front_Building04:polySurface249
+    4300066: IIT__front_Building04:IIT__front_Building04:polySurface248
+    4300068: IIT__front_Building04:IIT__front_Building04:polySurface247
+    4300070: IIT__front_Building04:IIT__front_Building04:polySurface346
+    4300072: IIT__front_Building04:IIT__front_Building04:polySurface347
+    4300074: IIT__front_Building04:IIT__front_Building04:polySurface348
+    4300076: IIT__front_Building04:IIT__front_Building04:polySurface349
+    4300078: IIT__front_Building04:IIT__front_Building04:polySurface263
+    4300080: IIT__front_Building04:IIT__front_Building04:polySurface264
+    4300082: IIT__front_Building04:IIT__front_Building04:polySurface265
+    4300084: IIT__front_Building04:IIT__front_Building04:polySurface266
+    4300086: IIT__front_Building04:IIT__front_Building04:polySurface250
+    4300088: IIT__front_Building04:IIT__front_Building04:polySurface249
+    4300090: IIT__front_Building04:IIT__front_Building04:polySurface248
+    4300092: IIT__front_Building04:IIT__front_Building04:polySurface247
+    4300094: IIT__front_Building04:IIT__front_Building04:polySurface346
+    4300096: IIT__front_Building04:IIT__front_Building04:polySurface347
+    4300098: IIT__front_Building04:IIT__front_Building04:polySurface348
+    4300100: IIT__front_Building04:IIT__front_Building04:polySurface349
+    4300102: pCube36
+    4300104: polySurface936
+    4300106: polySurface937
+    4300108: polySurface938
+    4300110: polySurface939
+    4300112: polySurface940
+    4300114: polySurface941
+    4300116: polySurface942
+    4300118: polySurface943
+    4300120: polySurface944
+    4300122: polySurface945
+    4300124: polySurface946
+    4300126: polySurface947
+    4300128: polySurface948
+    4300130: polySurface949
+    4300132: polySurface950
+    4300134: polySurface951
+    4300136: polySurface952
+    4300138: polySurface953
+    4300140: polySurface954
+    4300142: polySurface955
+    4300144: polySurface956
+    4300146: polySurface957
+    4300148: polySurface958
+    4300150: polySurface959
+    4300152: polySurface961
+    4300154: polySurface963
+    4300156: pCube36
+    4300158: pCube38
+    4300160: pCube39
+    4300162: polySurface964
+    4300164: pCube44
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
